@@ -4,7 +4,7 @@
     "url": "https://github.com/NativeScript/nativescript-background-http"
   },
   "name": "nativescript-background-http",
-  "version": "2.3.0-2016-11-08",
+  "version": "2.3.0-2016-11-11",
   "nativescript": {
     "platforms": {
       "ios": "2.3.0",
